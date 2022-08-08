@@ -1,6 +1,6 @@
 # What does this blog include?
 
-Post Management Features
+## Post Management Features
 
 Posts add
 
@@ -14,7 +14,7 @@ Posts lists
 
 Posts viewed by users
 
-Category Management Features
+## Category Management Features
 
 Categories add
 
@@ -26,7 +26,7 @@ Categories lists
 
 Category pin to top
 
-Users Managements Features
+## Users Managements Features
 
 Users lists
 
@@ -34,7 +34,7 @@ Users viewed posts
 
 Visitors lists
 
-Ads Managements Features
+## Ads Managements Features
 
 Ads add with start date and end date
 
@@ -44,11 +44,11 @@ Ads delete
 
 Ads lists
 
-Dashboard Features
+## Dashboard Features
 
 Dynamic tables,charts and graphs
 
-Newsfeed Features
+## Newsfeed Features
 
 Posts sorting with date
 
@@ -58,7 +58,7 @@ Posts sorting new to old and old to new
 
 Posts searching
 
-Wallet Features
+## Wallet Features
 
 Tranfering money
 
