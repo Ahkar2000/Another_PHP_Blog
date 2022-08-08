@@ -1,5 +1,4 @@
-# Another_PHP_blog
-What does this blog include?
+# What does this blog include?
 
 # Post Management Features
 Posts add
